@@ -8,3 +8,4 @@
 - run command: "php artisan key:generate"
 - run command: "php artisan migrate"
 - run command: "npm run dev"
+- run command: "php artisan serve"
